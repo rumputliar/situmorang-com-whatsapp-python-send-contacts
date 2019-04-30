@@ -6,6 +6,8 @@ Step 1: Install Selenium
 $ pip3 install selenium
 ```
 
+UPDATED: Steps 2, 3 & 4 no longer required
+
 Step 2: Selenium requires a driver to interface with the chosen browser.
 [Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 [FireFox](https://github.com/mozilla/geckodriver/releases)
